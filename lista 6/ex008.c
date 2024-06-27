@@ -1,0 +1,1 @@
+// Armazenar em Vetores, Nomes e Notas PR1 e PR2 de 6 alunos. Calcular a média de cada aluno e imprimir aprovado se a médiafor maior que 5 e reprovado se média for menor ou igual a 5. OBS.: 2 vetores paraas notas tipo float. 1 vetor para os nomes. 1 vetor para a média. 1 vetor para situação

@@ -1,4 +1,8 @@
 {
     "cmake.configureOnOpen": true,
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stdio.h": "c"
+    }
 }

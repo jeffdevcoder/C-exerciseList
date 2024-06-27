@@ -1,0 +1,1 @@
+// Preencher um vetor de 8 elementos inteiros. Mostrar o vetor e informar quantos números são maioresque 30, somar estes números. Somar todos os números

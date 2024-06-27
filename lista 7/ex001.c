@@ -1,0 +1,1 @@
+// Leia uma matriz 3 x 3 de inteiros. Calcule a soma dos elementos que estão acima da diagonal principal (Coluna 1 x linha 2, Coluna 1 x linha 3, Coluna 2 x linha 3)

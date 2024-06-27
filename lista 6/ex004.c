@@ -1,0 +1,1 @@
+// Preencher um vetor com 5 númerose a medida que for digitado o número, calcular ocubo e mostrar em outro vetor. Mostrar os dois vetore

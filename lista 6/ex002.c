@@ -1,0 +1,1 @@
+// Preencher um vetor de 8 elementos inteiros. Mostrar o vetor na verticalcom\n. Calcular a média do vetor. Mostrar quantos números são múltiplos de 5. Quantos números são maiores que 10 e menores que 30. Qual o maior número do vetor.

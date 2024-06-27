@@ -1,0 +1,1 @@
+// Escreva um programa para ler 10 valores em um vetor e depois um número mágico a ser buscado. Faça uma função que deverá retornar um número inteiro que informa a quantidadede vezes que este número apareceu no vetor. Caso não tenha aparecido nenhuma vez, a função retornará -1.

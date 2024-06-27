@@ -1,0 +1,1 @@
+// Crie dois vetoresde 10 posições de inteiros.  Depois crie uma função que faça aordenação decrescente e chame esta função para os dois vetores.  Mostre em seguida os vetores ordenados

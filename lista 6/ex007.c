@@ -1,0 +1,1 @@
+// Preencher um vetor com os números10 a 20, e depois mostrar os elementos pares do vetor de trás para afrente. E também mostrar os números ímpares
